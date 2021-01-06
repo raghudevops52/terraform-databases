@@ -1,0 +1,2 @@
+variable "ENV" {}
+variable "bucket" {}
